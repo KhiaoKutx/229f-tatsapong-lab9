@@ -223,7 +223,7 @@ Transform:
   m_GameObject: {fileID: 327335847}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.0000002533197}
-  m_LocalPosition: {x: -15.000003, y: 1.191, z: -1.6699989}
+  m_LocalPosition: {x: -19.77, y: 1.191, z: -1.67}
   m_LocalScale: {x: 1.1591, y: 1.1591, z: 1.1591}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -591,7 +591,7 @@ Transform:
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 4.2767525, y: 2.9799, z: 2.9799}
+  m_LocalScale: {x: 5.8266478, y: 4.059816, z: 4.059816}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -700,7 +700,7 @@ Transform:
   m_GameObject: {fileID: 516846024}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.0000002533197}
-  m_LocalPosition: {x: -14.999999, y: 1.191, z: 1.6500008}
+  m_LocalPosition: {x: -19.769997, y: 1.191, z: 1.6499997}
   m_LocalScale: {x: 1.1591, y: 1.1591, z: 1.1591}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -859,7 +859,7 @@ Transform:
   m_GameObject: {fileID: 1099078464}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -1, z: -0, w: 0.0000002533197}
-  m_LocalPosition: {x: -15.000004, y: 1.191, z: -0.019998496}
+  m_LocalPosition: {x: -19.77, y: 1.191, z: -0.01999957}
   m_LocalScale: {x: 1.1591, y: 1.1591, z: 1.1591}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1118,8 +1118,8 @@ Transform:
   m_GameObject: {fileID: 1205788812}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -19.71, y: 2.061, z: 0}
-  m_LocalScale: {x: 0.5491, y: 4.102453, z: 5.8222804}
+  m_LocalPosition: {x: -26.97, y: 2.061, z: 0}
+  m_LocalScale: {x: 0.5491, y: 4.102453, z: 8.311305}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -1273,8 +1273,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2107f8b9efe66ce4c8366234bebe6d73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: -10, y: 0, z: 0}
-  spin: {x: 0, y: 10, z: 0}
+  velocity: {x: 0, y: 0, z: 60}
+  spin: {x: 0, y: 5, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
