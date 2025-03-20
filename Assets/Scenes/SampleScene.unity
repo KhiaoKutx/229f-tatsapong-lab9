@@ -899,6 +899,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   angularV: {x: 0, y: 0, z: 10}
+  torque: {x: 0, y: 20, z: 0}
 --- !u!54 &1162933325
 Rigidbody:
   m_ObjectHideFlags: 0
@@ -1269,12 +1270,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 1374468331}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bc96581126b93f943a1636d695b0874b, type: 3}
+  m_Script: {fileID: 11500000, guid: 2107f8b9efe66ce4c8366234bebe6d73, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocity: {x: 0, y: 0, z: 0}
-  spin: {x: 0, y: 0, z: 0}
-  magnusCoefficient: 0.1
+  velocity: {x: -10, y: 0, z: 0}
+  spin: {x: 0, y: 10, z: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
